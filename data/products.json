@@ -1,0 +1,82 @@
+{
+  "products": [
+        {
+          "id": 1,
+          "title": "Pneu Aro 16 225 55 ",
+          "description": "O pneu Aptany RP203 possui banda de rodagem simétrica com quatro grandes sulcos e ótima capacidade de escoamento de água.",
+          "price": 300.69,
+          "ratings": 3,
+          "reviews": 5,
+          "isAddedToCart": false,
+          "isAddedBtn": false,
+          "isFavourite": false,
+          "quantity": 1,
+          "imagem": "https://static2.pneustore.com.br/medias/sys_master/images/h45/hab/8822903701534/Aptany-Harmonic-RP203.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Pneus 205/55 Aro 16",
+          "description": "Excepcional tração em piso molhado. Design e performance superior Indicado para veículos de média ou alta performance compatíveis com aro 16.",
+          "price": 269.99,
+          "ratings": 5,
+          "reviews": 10,
+          "isAddedToCart": false,
+          "isAddedBtn": false,
+          "isFavourite": false,
+          "quantity": 1,
+          "imagem": "https://static2.pneustore.com.br/medias/sys_master/images/h7f/h36/8801965146142/Goodyear-Eagle-Sport-1200.jpg"
+        },
+        {
+          "id": 3,
+          "title": "PNEU 225/65R16",
+          "description": "Os Pneus Continental levam a tecnologia alemã para as pistas brasileiras. Sejam elas de asfalto ou de terra, sejam irregulares ou planas.",
+          "price": 110.99,
+          "ratings": 2,
+          "reviews": 3,
+          "isAddedToCart": false,
+          "isAddedBtn": false,
+          "isFavourite": false,
+          "quantity": 1,
+          "imagem": "https://static2.pneustore.com.br/medias/sys_master/images/hb6/h85/8879290712094/Continental-VanContact-AP.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Pneu Aro 15 195 50 ",
+          "description": "O pneu Aptany RP203 possui banda de rodagem simétrica com quatro grandes sulcos e ótima capacidade de escoamento de água.",
+          "price": 300.69,
+          "ratings": 3,
+          "reviews": 5,
+          "isAddedToCart": false,
+          "isAddedBtn": false,
+          "isFavourite": false,
+          "quantity": 1,
+          "imagem": "https://static2.pneustore.com.br/medias/sys_master/images/hfb/hb1/8822270197790/ContiCrossContact-AT-1200.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Pneus 195/55 Aro 14",
+          "description": "Excepcional tração em piso molhado. Design e performance superior Indicado para veículos de média ou alta performance compatíveis com aro 16.",
+          "price": 269.99,
+          "ratings": 5,
+          "reviews": 10,
+          "isAddedToCart": false,
+          "isAddedBtn": false,
+          "isFavourite": false,
+          "quantity": 1,
+          "imagem": "https://static2.pneustore.com.br/medias/sys_master/images/h5c/hb5/9209617219614/Pneu-Zetum-KR26-1000x1000.jpg"
+        },
+        {
+          "id": 6,
+          "title": "PNEU 225/55R15",
+          "description": "Os Pneus Continental levam a tecnologia alemã para as pistas brasileiras. Sejam elas de asfalto ou de terra, sejam irregulares ou planas.",
+          "price": 110.99,
+          "ratings": 2,
+          "reviews": 3,
+          "isAddedToCart": false,
+          "isAddedBtn": false,
+          "isFavourite": false,
+          "quantity": 1,
+          "imagem": "https://static2.pneustore.com.br/medias/sys_master/images/hfc/hdf/8846047739934/Firestone-F600.jpg"
+        }
+      ]
+}
